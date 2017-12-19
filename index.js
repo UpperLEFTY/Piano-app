@@ -28,7 +28,7 @@ import React from 'react'
       return (
         <div id="26">
           <div
-            className="theremin"
+            className="thepiano"
             onClick={this.play}
             onMultipleClicks{this.stop}
             onMouseClick{this.changeTone}
